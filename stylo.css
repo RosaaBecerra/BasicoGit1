@@ -1,0 +1,37 @@
+.titulo{
+    color: aqua;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 100px;  
+    background-color: black;
+}
+.seleccion{
+color: blue;
+background-color: brown;
+border-color: yellow;
+font-size: x-large;
+}
+.rosa{
+    color: blueviolet;
+    font-size: 60px;
+    border-color: purple;
+
+}
+.caja{
+display: flex;
+flex-direction:row ;
+justify-content: space-between;
+background-color: #ff7f99;
+}
+.wehelp{
+    color: white;
+    font: size 20px;
+}
+.you{
+    color: yellow;
+    font: size 20px; ;
+}
+.caja1{
+    display:flex;
+    align-items: flex-end;
+
+}
